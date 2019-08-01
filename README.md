@@ -1,7 +1,6 @@
-# Jobthai upgrade banner service
+# Starter Service
 
-Jobthai upgrade banner service
-
+Starter Service
 
 ## Getting Started
 1. install dependencies
